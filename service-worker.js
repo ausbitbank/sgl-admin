@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ebf06f0284d226189b210d3cbc8a008f.js"
+  "/precache-manifest.203b2fe842091a98b759edbb8786e5a9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sonicgroovelive"});
